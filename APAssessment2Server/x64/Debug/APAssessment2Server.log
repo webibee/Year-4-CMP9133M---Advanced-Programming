@@ -1,0 +1,24 @@
+﻿  APAssessment2Server.cpp
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(127,103): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(142,107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(166,103): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(227,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(236,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(250,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(259,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(273,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(282,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(296,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(305,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(319,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(328,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(342,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(351,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(365,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(374,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(386,107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(394,107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(423,156): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(430,125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\APAssessment2Server.cpp(65,26): warning C4101: 'clientSocket': unreferenced local variable
+  APAssessment2Server.vcxproj -> C:\Users\benwe\Desktop\AP Assessment 2 Server\APAssessment2Server\x64\Debug\APAssessment2Server.exe
