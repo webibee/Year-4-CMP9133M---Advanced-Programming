@@ -1,0 +1,8 @@
+﻿  APAssessment2Client.cpp
+C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\APAssessment2Client.cpp(120,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\APAssessment2Client.cpp(138,58): warning C4244: 'argument': conversion from 'std::streamsize' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\APAssessment2Client.cpp(148,53): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\APAssessment2Client.cpp(167,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\APAssessment2Client.cpp(209,168): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\APAssessment2Client.cpp(100,9): warning C4101: 'n': unreferenced local variable
+  APAssessment2Client.vcxproj -> C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\x64\Debug\APAssessment2Client.exe

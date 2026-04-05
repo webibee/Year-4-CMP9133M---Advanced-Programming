@@ -1,0 +1,4 @@
+﻿  APAssessment2Client.cpp
+C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\APAssessment2Client.cpp(182,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\APAssessment2Client.cpp(201,58): warning C4244: 'argument': conversion from 'std::streamsize' to 'int', possible loss of data
+  APAssessment2Client.vcxproj -> C:\Users\benwe\Desktop\AP Assessment 2 Client\APAssessment2Client\Debug\APAssessment2Client.exe
